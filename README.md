@@ -1,3 +1,4 @@
 # TestRepo
- <p> This is my second git repo </p>
-<p> Aishwarya author </p>
+This is my second git repo
+<br>
+Author - Aishwarya Ingewar
